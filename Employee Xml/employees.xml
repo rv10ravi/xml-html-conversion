@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <name>Rvi Ray</name>
+    <age>20</age>
+    <department>Video Editing</department>
+    <salary>100000</salary>
+  </employee>
+  <employee>
+    <name>John</name>
+    <age>23</age>
+    <department>Cyber Security</department>
+    <salary>120000</salary>
+  </employee>
+  <employee>
+    <name>Amit KUmar</name>
+    <age>28</age>
+    <department>Media</department>
+    <salary>90000</salary>
+  </employee>
+  <employee>
+    <name>Bimlesh Kumar</name>
+    <age>23</age>
+    <department>Finance</department>
+    <salary>83000</salary>
+  </employee>
+</employees>
